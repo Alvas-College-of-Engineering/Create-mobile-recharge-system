@@ -243,6 +243,8 @@ This project helped in understanding:
 
 ## ✨ Nisha Naik
 
+🎓 Alva’s Institute of Engineering and Technology  
+
 Passionate Java Full Stack Developer  
 Focused on creating modern and interactive web applications using Java technologies.
 
