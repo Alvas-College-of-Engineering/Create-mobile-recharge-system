@@ -1,4 +1,4 @@
-# ⚡ RechargePro – Mobile Recharge System
+# ⚡ RECHARGEPRO – Mobile Recharge System
 
 <div align="center">
 
