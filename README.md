@@ -241,7 +241,7 @@ This project helped in understanding:
 
 # 👩‍💻 Developed By
 
-## ✨ Nisha Naik
+## ✨ NISHA NAIK
 
 🎓 Alva’s Institute of Engineering and Technology  
 
