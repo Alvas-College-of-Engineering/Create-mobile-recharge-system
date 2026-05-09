@@ -24,17 +24,20 @@ This project simulates a real-world online recharge platform with recharge manag
 
 # 🌟 Project Overview
 
-RechargePro is a fully functional **Java Web Application** that allows users to:
+RechargePro is a Java-based web application designed to simulate a real-world mobile recharge platform.  
+The system provides recharge management, transaction handling, validation mechanisms, and persistent recharge history storage through an interactive user interface.
 
-✅ Recharge mobile numbers  
-✅ Choose different recharge plans  
-✅ Select payment methods  
-✅ Generate successful transaction receipts  
-✅ Store recharge history permanently  
-✅ Validate user input dynamically  
-✅ Search and filter recharge history  
+### Features
 
-The project is designed with a modern dark-themed UI to provide a professional real-world experience.
+- Recharge mobile numbers
+- Operator and recharge plan selection
+- Payment method handling
+- Transaction receipt generation
+- Recharge history management
+- Input validation and balance checking
+- Search and filter functionality
+
+The project follows object-oriented programming principles and demonstrates Java web application development using JSP, Servlets, JDBC, and MySQL.
 
 ---
 
