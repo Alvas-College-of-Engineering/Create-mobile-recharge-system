@@ -44,6 +44,11 @@ The project follows object-oriented programming principles and demonstrates Java
 
 # 🎯 Key Features
 
+## 📱 Recharge Functionality
+- Recharge any mobile number
+- Operator selection
+- Dynamic recharge plans
+- Amount validation
 
 
 ## 💳 Payment Integration Simulation
