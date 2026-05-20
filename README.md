@@ -59,10 +59,7 @@ The project follows object-oriented programming principles and demonstrates Java
 - Wallet
 
 ## 📜 Recharge History
-- Persistent transaction storage
-- Search by mobile number
-- Search by transaction ID
-- Operator filtering
+
 
 ## 🛡️ Validation Layer
 - 10-digit mobile validation
