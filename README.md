@@ -4,6 +4,9 @@
 
 ## 🚀 Premium Java Web Application for Smart Mobile Recharges
 
+A modern and interactive **Java-based Mobile Recharge System** developed using **JSP, Servlets, JDBC, MySQL, HTML, CSS, and JavaScript**.  
+This project simulates a real-world online recharge platform with recharge management, transaction history, validation, payment handling, and persistent data storage.
+
 
 <br>
 
