@@ -71,11 +71,6 @@ The project follows object-oriented programming principles and demonstrates Java
 - Balance verification
 - Positive amount validation
 
-## 🎨 Premium UI Design
-- Responsive modern dashboard
-- Dark futuristic interface
-- Interactive cards and layouts
-- Professional navigation system
 
 ---
 
